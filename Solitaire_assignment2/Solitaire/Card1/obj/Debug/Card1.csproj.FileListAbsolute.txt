@@ -1,0 +1,28 @@
+C:\Users\nnehring\OneDrive - Unitec NZ\S_DRIVE\_GUI\Z_cards\_nn\Card1\Card1\bin\Debug\Card1.exe.config
+C:\Users\nnehring\OneDrive - Unitec NZ\S_DRIVE\_GUI\Z_cards\_nn\Card1\Card1\bin\Debug\Card1.exe
+C:\Users\nnehring\OneDrive - Unitec NZ\S_DRIVE\_GUI\Z_cards\_nn\Card1\Card1\bin\Debug\Card1.pdb
+C:\Users\nnehring\OneDrive - Unitec NZ\S_DRIVE\_GUI\Z_cards\_nn\Card1\Card1\obj\Debug\Card1.Form1.resources
+C:\Users\nnehring\OneDrive - Unitec NZ\S_DRIVE\_GUI\Z_cards\_nn\Card1\Card1\obj\Debug\Card1.Properties.Resources.resources
+C:\Users\nnehring\OneDrive - Unitec NZ\S_DRIVE\_GUI\Z_cards\_nn\Card1\Card1\obj\Debug\Card1.csproj.GenerateResource.Cache
+C:\Users\nnehring\OneDrive - Unitec NZ\S_DRIVE\_GUI\Z_cards\_nn\Card1\Card1\obj\Debug\Card1.exe
+C:\Users\nnehring\OneDrive - Unitec NZ\S_DRIVE\_GUI\Z_cards\_nn\Card1\Card1\obj\Debug\Card1.pdb
+C:\Users\nnehring\OneDrive - Unitec NZ\S_DRIVE\_GUI\Z_cards\_nn\Card1\Card1\obj\Debug\Card1.csprojResolveAssemblyReference.cache
+C:\Users\nnehring\OneDrive - Unitec NZ\S_DRIVE\_GUI\Z_cards\_nn\Card1_Start\Card1\bin\Debug\Card1.exe.config
+C:\Users\nnehring\OneDrive - Unitec NZ\S_DRIVE\_GUI\Z_cards\_nn\Card1_Start\Card1\bin\Debug\Card1.exe
+C:\Users\nnehring\OneDrive - Unitec NZ\S_DRIVE\_GUI\Z_cards\_nn\Card1_Start\Card1\bin\Debug\Card1.pdb
+C:\Users\nnehring\OneDrive - Unitec NZ\S_DRIVE\_GUI\Z_cards\_nn\Card1_Start\Card1\obj\Debug\Card1.csprojResolveAssemblyReference.cache
+C:\Users\nnehring\OneDrive - Unitec NZ\S_DRIVE\_GUI\Z_cards\_nn\Card1_Start\Card1\obj\Debug\Card1.MainForm.resources
+C:\Users\nnehring\OneDrive - Unitec NZ\S_DRIVE\_GUI\Z_cards\_nn\Card1_Start\Card1\obj\Debug\Card1.Properties.Resources.resources
+C:\Users\nnehring\OneDrive - Unitec NZ\S_DRIVE\_GUI\Z_cards\_nn\Card1_Start\Card1\obj\Debug\Card1.csproj.GenerateResource.Cache
+C:\Users\nnehring\OneDrive - Unitec NZ\S_DRIVE\_GUI\Z_cards\_nn\Card1_Start\Card1\obj\Debug\Card1.exe
+C:\Users\nnehring\OneDrive - Unitec NZ\S_DRIVE\_GUI\Z_cards\_nn\Card1_Start\Card1\obj\Debug\Card1.pdb
+C:\Temp\Solitaire_assignment2\Solitaire\Card1\obj\Debug\Card1.csprojAssemblyReference.cache
+C:\Temp\Solitaire_assignment2\Solitaire\Card1\obj\Debug\Card1.exe
+C:\Temp\Solitaire_assignment2\Solitaire\Card1\obj\Debug\Card1.pdb
+C:\Temp\Solitaire_assignment2\Solitaire\Card1\bin\Debug\Card1.exe.config
+C:\Temp\Solitaire_assignment2\Solitaire\Card1\bin\Debug\Card1.exe
+C:\Temp\Solitaire_assignment2\Solitaire\Card1\bin\Debug\Card1.pdb
+C:\Temp\Solitaire_assignment2\Solitaire\Card1\obj\Debug\Card1.MainForm.resources
+C:\Temp\Solitaire_assignment2\Solitaire\Card1\obj\Debug\Card1.Properties.Resources.resources
+C:\Temp\Solitaire_assignment2\Solitaire\Card1\obj\Debug\Card1.csproj.GenerateResource.cache
+C:\Temp\Solitaire_assignment2\Solitaire\Card1\obj\Debug\Card1.csproj.CoreCompileInputs.cache
